@@ -1,0 +1,1 @@
+Este é um repositório onde tentarei solucionar pequenos projetos de JavaScript.
