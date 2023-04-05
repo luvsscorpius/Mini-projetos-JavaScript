@@ -13,6 +13,10 @@ body {
     /* não deixa selecionar o texto */
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -56,4 +60,20 @@ body {
 .button:hover {
     background-color: black;
     color: whitesmoke;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    padding: 5px;
+}
+
+input {
+    border-radius: 5px;
+    width: 15vw;
+    height: 4vh;
+    text-align: center;
 }
